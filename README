@@ -2,5 +2,6 @@ DC-BSDCA stands for divide and conquer for budget stochastic dual coordinate asc
 
 This code allows to train a kernel SVM extremely fast while being on a budget constraint. Maybe you'll find it usefull.
 
-All the code is 3-clauses BSD.
+All the code is 3-clause BSD.
 
+Compiling require jkernelmachines, but is easy done using maven. Simply type ``mvn install'' in dc-bsdca directory to generate the jar files in your own m2 repository.
