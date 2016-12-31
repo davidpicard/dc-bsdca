@@ -1,0 +1,6 @@
+DC-BSDCA stands for divide and conquer for budget stochastic dual coordinate ascend.
+
+This code allows to train a kernel SVM extremely fast while being on a budget constraint. Maybe you'll find it usefull.
+
+All the code is 3-clauses BSD.
+
